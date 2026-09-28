@@ -1,0 +1,18 @@
+# Godot
+.godot/
+Godot_v*.x86_64
+*.log
+
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# General
+*.zip
+*.pdf
+.DS_Store
